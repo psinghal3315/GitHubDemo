@@ -1,0 +1,9 @@
+D:\LocalTFS\TestGitHubIntegration\TestGitHubIntegration\bin\Debug\TestGitHubIntegration.exe.config
+D:\LocalTFS\TestGitHubIntegration\TestGitHubIntegration\bin\Debug\TestGitHubIntegration.exe
+D:\LocalTFS\TestGitHubIntegration\TestGitHubIntegration\bin\Debug\TestGitHubIntegration.pdb
+D:\LocalTFS\TestGitHubIntegration\TestGitHubIntegration\obj\Debug\TestGitHubIntegration.csprojResolveAssemblyReference.cache
+D:\LocalTFS\TestGitHubIntegration\TestGitHubIntegration\obj\Debug\TestGitHubIntegration.Form1.resources
+D:\LocalTFS\TestGitHubIntegration\TestGitHubIntegration\obj\Debug\TestGitHubIntegration.Properties.Resources.resources
+D:\LocalTFS\TestGitHubIntegration\TestGitHubIntegration\obj\Debug\TestGitHubIntegration.csproj.GenerateResource.Cache
+D:\LocalTFS\TestGitHubIntegration\TestGitHubIntegration\obj\Debug\TestGitHubIntegration.exe
+D:\LocalTFS\TestGitHubIntegration\TestGitHubIntegration\obj\Debug\TestGitHubIntegration.pdb
